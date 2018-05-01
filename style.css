@@ -1,0 +1,23 @@
+p{
+    color: blue;
+    background-color: green;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Courier New', 'Courier', 'monospace';
+}
+
+.yellow{
+    background: yellow;
+}
+.blue{
+    background: blue;
+    color: white;
+}
+
+img{
+    width:250px;
+    width:50%;
+    width: 10vh , 100vw --
+    viewport height
+    viewport width:
+}
